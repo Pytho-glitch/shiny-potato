@@ -17,4 +17,4 @@ try:
     avr_num = mean(num_list)
     print(f"Biggest number: {max_num}, Smallest number: {min_num}, Average: {avr_num}")
 except Exception:
-    print("Error! Please make sure you are putting a number.")
+    print("Error! Please be sure to put a number.")
