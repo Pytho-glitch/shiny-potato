@@ -1,1 +1,1 @@
-# Girilen değerlerin en büyüğünü, en küçüğünü ve ortalamasını hesaplayan basit python programıdır.
+# It is a simple python program that calculates the largest, smallest and average of the entered values.
